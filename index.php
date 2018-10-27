@@ -174,9 +174,11 @@
 					</div>
 				</div>
 			</div><!--/.row-->
+			<div class="row">
 			<center>
-				<iframe width="100%" height="100%" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/611233/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15"></iframe>
+				<iframe width="640px" height="480px" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/611233/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15"></iframe>
 			</center>
+			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-12">
