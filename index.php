@@ -138,9 +138,6 @@
 				<h1 class="page-header">Dashboard</h1>
 			</div>
 		</div><!--/.row-->
-		
-		<div class="panel panel-container">
-		</div>
 		<div class="row">
 			<div class="col-md-12">
 				<div class="panel panel-default">
