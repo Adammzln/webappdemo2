@@ -102,7 +102,7 @@
               <input class="app-form-control" placeholder="TEMPERATURE(°C): 28">
             </div>
             <div class="app-form-group">
-              <input class="app-form-control" placeholder="WATER LEVEL(cm): 8.67">
+              <input class="app-form-control" placeholder="WATER LEVEL(cm): 8.46">
             </div>
             <div class="app-form-group">
               <input class="app-form-control" placeholder="HUMIDITY(%): 85">
