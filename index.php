@@ -16,7 +16,7 @@
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
 </head>
-<body>
+<body background="sawi.jpg">
 	<nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
 		<div class="container-fluid">
 			<div class="navbar-header">
