@@ -25,7 +25,7 @@
 				<img src="http://placehold.it/50/30a5ff/fff" class="img-responsive" alt="">
 			</div>
 			<div class="profile-usertitle">
-				<div class="profile-usertitle-name">Smart Urban Farming</div>
+				<div class="profile-usertitle-name">SUF</div>
 			</div>
 			<div class="clear"></div>
 		</div>
