@@ -72,12 +72,12 @@
 		</div><!--/.row-->
 		
 		<div class="row">
-			<div class="col-lg-12">
+			<div class="col-sm-3 col-lg-2">
 				<h1 class="page-header">Dashboard</h1>
 			</div>
 		</div><!--/.row-->
 		<div class="row">
-			<div class="col-md-12">
+			<div class="col-sm-3 col-lg-2">
 				<div class="panel panel-default">
 					<div class="panel-heading">
 						Water Level
@@ -89,7 +89,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-12">
+			<div class="col-sm-3 col-lg-2">
 				<div class="panel panel-default">
 					<div class="panel-heading">
 						PH Value
@@ -101,7 +101,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-12">
+			<div class="col-sm-3 col-lg-2">
 				<div class="panel panel-default">
 					<div class="panel-heading">
 						Temperature
@@ -113,7 +113,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-12">
+			<div class="col-sm-3 col-lg-2">
 				<div class="panel panel-default">
 					<div class="panel-heading">
 						Humidity
