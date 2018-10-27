@@ -100,10 +100,11 @@
 				</a>
 				<ul class="children collapse" id="sub-item-1">
 					<li><a class="" href="form.php">
-						<span class="fa fa-arrow-right">&nbsp;</span> Lettuce
-						
-					</a></li>
-						
+						<ul class="children collapse" id="sub-item-1">
+							<span class="fa fa-arrow-right">&nbsp;</span> Lettuce	
+								<li><a class="" href="#">
+									<span class="fa fa-arrow-right">&nbsp;</span> Sub Item 2
+								</a></li>
 					</a></li>
 					<li><a class="" href="#">
 						<span class="fa fa-arrow-right">&nbsp;</span> Sub Item 2
