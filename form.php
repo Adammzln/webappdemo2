@@ -1,5 +1,8 @@
 <!DOCTYPE html>
    <html>
+      <head>
+         <link href="css/styles.css" rel="stylesheet">
+      </head>
     <body>
        <div class="background">
   <div class="container">
