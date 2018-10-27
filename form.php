@@ -50,10 +50,10 @@
 						<span class="fa fa-arrow-right">&nbsp;</span> Lettuce
 					</a></li>
 					<li><a class="" href="#">
-						<span class="fa fa-arrow-right">&nbsp;</span> Sub Item 2
+						<span class="fa fa-arrow-right">&nbsp;</span> Redroot Pigweed
 					</a></li>
 					<li><a class="" href="#">
-						<span class="fa fa-arrow-right">&nbsp;</span> Sub Item 3
+						<span class="fa fa-arrow-right">&nbsp;</span> Rosemary
 					</a></li>
 				</ul>
 			</li>
