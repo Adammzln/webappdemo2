@@ -93,8 +93,8 @@
       <div class="screen-body">
         <div class="screen-body-item left">
           <div class="app-title">
-            <span>CUSTOMIZE</span>
-            <span>YOUR PLANT</span>
+            <span>AUTOMATED</span>
+            <span>CONFIGURATION</span>
           </div>
           <div class="app-contact">CONTACT INFO : adammzln4297@gmail.com</div>
         </div>
