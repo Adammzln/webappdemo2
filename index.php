@@ -207,7 +207,11 @@
 					<div class="panel-body">
 						<div class="canvas-wrapper">
 							<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/611233/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=UFarm&type=line"></iframe>
+					
+						</div>
+						<div class="canvas-wrapper">
 							<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/611233/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=UFarm&type=line"></iframe>
+					
 						</div>
 					</div>
 				</div>
