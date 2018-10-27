@@ -101,9 +101,10 @@
 				<ul class="children collapse" id="sub-item-1">
 					<li><a class="" href="form.php">
 						<span class="fa fa-arrow-right">&nbsp;</span> Mustard
-						<ul class="children collapse" id="sub-item-1">
-							<li><a class="" href="form.php">
+						<ul>
+							<li><a class="" href="form.php"></li>
 							<span class="fa fa-arrow-right">&nbsp;</span> Mustard 2
+								</ul>
 						
 					</a></li>
 						
