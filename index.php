@@ -152,7 +152,7 @@
 				<div class="col-xs-6 col-md-3 col-lg-3 no-padding">
 					<div class="panel panel-blue panel-widget border-right">
 						<div class="row no-padding"><em class="fa fa-xl fa-comments color-orange"></em>
-							<div><center><iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/611233/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Temperature&type=line"></iframe></center></div>
+							<div><center><iframe width="100%" height="100%" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/611233/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Temperature&type=line"></iframe></center></div>
 							<div class="large">52</div>
 							<div class="text-muted">Comments</div>
 						</div>
