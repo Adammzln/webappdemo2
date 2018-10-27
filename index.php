@@ -49,7 +49,7 @@
 					<li><a class="" href="form.php">
 						<span class="fa fa-arrow-right">&nbsp;</span> Lettuce
 							<ul><li>
-								<span class="fa fa-arrow-right">&nbsp;</span> Lettuce
+								Lettuce
 							</li></ul>	
 					</a></li>
 					<li><a class="" href="#">
