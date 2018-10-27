@@ -1,15 +1,16 @@
 <? php
-    import urllib
-    import urllib2
+   <html>
+    <body>
 
-        url = 'http://www.someserver.com/cgi-bin/register.cgi'
-        values = {'name' : 'Michael Foord',
-                  'location' : 'Northampton',
-                  'language' : 'Python' }
+    <form action="welcome_get.php" method="get">
+        Temperature: <input type="text" name="temperature"><br>
+        PH Value: <input type="text" name="phvalue"><br>
+        Humidity: <input type="text" name="humidity"<br>
+        water Level: <input type="text" name="waterlevel"><br> 
+        <input type="submit">
+    </form>
 
-        data = urllib.urlencode(values)
-        req = urllib2.Request(url, data)
-        response = urllib2.urlopen(req) 
-        the_page = response.read()
+       </body>
+    </html>
             
 ?>
