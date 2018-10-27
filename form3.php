@@ -108,7 +108,7 @@
               <input class="app-form-control" placeholder="HUMIDITY(%): 75">
             </div>
             <div class="app-form-group">
-              <input class="app-form-control" placeholder="PH VALUE: 6.70">
+              <input class="app-form-control" placeholder="PH VALUE: 6.7">
             </div>
             <div class="app-form-group buttons">
               <button class="app-form-button">CANCEL</button>
