@@ -140,7 +140,6 @@
 		</div><!--/.row-->
 		
 		<div class="panel panel-container">
-			<div class="row"></div><!--/.row-->
 		</div>
 		<div class="row">
 			<div class="col-md-12">
