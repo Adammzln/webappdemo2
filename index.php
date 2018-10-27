@@ -48,10 +48,6 @@
 				<ul class="children collapse" id="sub-item-1">
 					<li><a class="" href="form.php">
 						<span class="fa fa-arrow-right">&nbsp;</span> Lettuce	
-						<ul class="nav menu">
-							<li><a class="parent" href="form.php">
-								<span class="fa fa-arrow-right">&nbsp;</span> Lettuce</a></li>	
-						</ul>
 							
 					</a></li>
 					<li><a class="" href="#">
