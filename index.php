@@ -153,7 +153,7 @@
 					<div class="panel panel-blue panel-widget border-right">
 						<div class="row no-padding"><em class="fa fa-xl fa-comments color-orange"></em>
 							<div class="large">
-								<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/611233/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Temperature&type=line"></iframe>
+								52
 							</div>
 							<div class="text-muted">Comments</div>
 						</div>
