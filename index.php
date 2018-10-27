@@ -83,7 +83,7 @@
 						Water Level
 						<span class="pull-right clickable panel-toggle panel-button-tab-left"><em class="fa fa-toggle-up"></em></span></div>
 					<div class="panel-body">
-						<div class="canvas-wrapper">
+						<div class="col-xs-12 col-sm-6 col-lg-8">
 							<center><iframe width="440" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/612121/charts/3?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15"></iframe></center>
 						</div>
 					</div>
