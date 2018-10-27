@@ -1,7 +1,7 @@
 <!DOCTYPE html>
    <html>
     <body>
-<div class="background">
+       <div class="background">
   <div class="container">
     <div class="screen">
       <div class="screen-header">
@@ -62,6 +62,5 @@
     </div>
   </div>
 </div>
-
    </body>
  </html>
