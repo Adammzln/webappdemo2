@@ -1,5 +1,4 @@
-<? php
-   <!DOCTYPE html>
+<!DOCTYPE html>
    <html>
     <body>
 
@@ -11,7 +10,5 @@
         <input type="submit">
     </form>
 
-       </body>
-    </html>
-            
-?>
+   </body>
+ </html>
