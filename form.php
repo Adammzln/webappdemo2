@@ -82,26 +82,26 @@
 				<h1 class="page-header">Lettuce</h1>
 			</div>
 		</div><!--/.row-->
-       <div class="background">
-  <div class="container">
-    <div class="screen">
-      <div class="screen-header">
+<div class="background">
+	<div class="container">
+   	<div class="screen">
+      	<div class="screen-header">
         <div class="screen-header-left">
-          <div class="screen-header-button close"></div>
-          <div class="screen-header-button maximize"></div>
-          <div class="screen-header-button minimize"></div>
+        	<div class="screen-header-button close"></div>
+        	<div class="screen-header-button maximize"></div>
+       	 	<div class="screen-header-button minimize"></div>
         </div>
         <div class="screen-header-right">
-          <div class="screen-header-ellipsis"></div>
-          <div class="screen-header-ellipsis"></div>
-          <div class="screen-header-ellipsis"></div>
+          	<div class="screen-header-ellipsis"></div>
+          	<div class="screen-header-ellipsis"></div>
+          	<div class="screen-header-ellipsis"></div>
         </div>
-      </div>
+       </div>
       <div class="screen-body">
         <div class="screen-body-item left">
           <div class="app-title">
             <span>CUSTOMIZE</span>
-            <span>YOURSELF</span>
+            <span>YOUR PLANT</span>
           </div>
           <div class="app-contact">CONTACT INFO : adammzln4297@gmail.com</div>
         </div>
@@ -111,13 +111,13 @@
               <input class="app-form-control" placeholder="TEMPERATURE(°C): 24">
             </div>
             <div class="app-form-group">
-              <input class="app-form-control" placeholder="WATER LEVEL(cm): 8.67" value="WATER LEVEL: 8.67">
+              <input class="app-form-control" placeholder="WATER LEVEL(cm): 8.67">
             </div>
             <div class="app-form-group">
-              <input class="app-form-control" placeholder="HUMIDITY(%): 88" value="HUMIDITY: 88">
+              <input class="app-form-control" placeholder="HUMIDITY(%): 88">
             </div>
             <div class="app-form-group">
-              <input class="app-form-control" placeholder="PH VALUE: 6.5" value="PH VALUE: 6.5">
+              <input class="app-form-control" placeholder="PH VALUE: 6.5">
             </div>
             <div class="app-form-group buttons">
               <button class="app-form-button">CANCEL</button>
