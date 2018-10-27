@@ -93,11 +93,9 @@
       <div class="screen-body">
         <div class="screen-body-item left">
           <div class="app-title">
-            <span>AUTOMATED</span>
-            <span>CONFIGURATION</span>
+            <span>AUTO</span>
+            <span>CONFIGURE</span>
           </div>
-          <div class="app-contact">CONTACT INFO : adammzln4297@gmail.com</div>
-        </div>
         <div class="screen-body-item">
           <div class="app-form">
             <div class="app-form-group">
