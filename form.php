@@ -92,16 +92,16 @@
         <div class="screen-body-item">
           <div class="app-form">
             <div class="app-form-group">
-              <input class="app-form-control" placeholder="TEMPERATURE" value="24">
+              <input class="app-form-control" placeholder="TEMPERATURE" value="TEMPERATURE: 24">
             </div>
             <div class="app-form-group">
-              <input class="app-form-control" placeholder="WATER LEVEL" value="8.67">
+              <input class="app-form-control" placeholder="WATER LEVEL" value="WATER LEVEL: 8.67">
             </div>
             <div class="app-form-group">
-              <input class="app-form-control" placeholder="HUMIDITY" value="88">
+              <input class="app-form-control" placeholder="HUMIDITY" value="HUMIDITY: 88">
             </div>
             <div class="app-form-group">
-              <input class="app-form-control" placeholder="PH VALUE" value="6.5">
+              <input class="app-form-control" placeholder="PH VALUE" value="PH VALUE: 6.5">
             </div>
             <div class="app-form-group buttons">
               <button class="app-form-button">CANCEL</button>
