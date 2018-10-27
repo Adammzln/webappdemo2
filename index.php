@@ -47,10 +47,10 @@
 				</a>
 				<ul class="children collapse" id="sub-item-1">
 					<li><a class="" href="form.php">
-						<span class="fa fa-arrow-right">&nbsp;</span> Lettuce
-							<ul><li>
-								Lettuce
-							</li></ul>	
+						<span class="fa fa-arrow-right">&nbsp;</span> Lettuce	
+						<ul>
+							<li>Green</li>
+						</ul>
 					</a></li>
 					<li><a class="" href="#">
 						<span class="fa fa-arrow-right">&nbsp;</span> Sub Item 2
