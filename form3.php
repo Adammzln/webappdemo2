@@ -50,7 +50,7 @@
 						<span class="fa fa-arrow-right">&nbsp;</span> Lettuce
 					</a></li>
 					<li><a class="" href="form2.php">
-						<span class="fa fa-arrow-right">&nbsp;</span> Redroot Pigweed
+						<span class="fa fa-arrow-right">&nbsp;</span> Pigweed
 					</a></li>
 					<li><a class="" href="form3.php">
 						<span class="fa fa-arrow-right">&nbsp;</span> Rosemary
